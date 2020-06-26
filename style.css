@@ -1,0 +1,44 @@
+#con{
+    background-color: aquamarine !important;
+    width: 100%;
+    height: 250px;
+}
+
+
+.main{
+    border: 2px solid gray;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    
+
+}
+
+.result{
+    width: 96%;
+    background-color: gray;
+    color: #fff;
+    /* margin-bottom: 5%; */
+}
+
+
+.clrBtn{
+    width: 100%;
+    color: black;
+    margin-top: 10px;
+    background-color: gray;
+}
+
+
+.btn{
+    width: 45px;
+    background-color: gray;
+    margin: 1px;
+}
+
+.halfBtn{
+
+    width: 96px;
+    background-color: gray;
+    margin: 1px;
+}
